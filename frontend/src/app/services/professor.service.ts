@@ -32,4 +32,8 @@ export class ProfessorService {
   assignStudents(id: number, studentIds: number[]): Observable<Professor> {
     return this.http.put<Professor>(`${this.endpoint}/assignAll/${id}`, studentIds);
   }
+
+  add(professor:Professor):Observable<Professor>{
+    return this.http.post<Professor>(`${this.endpoint}/add`,professor);
+  }
 }

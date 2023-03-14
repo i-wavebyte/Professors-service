@@ -20,7 +20,7 @@
     </tr>
     <tr *ngFor="let professor of filtered">
       <td>{{professor.cin}}</td>
-      <td>{{professor.name}}</td>
+      <td><a routerLink="{{'/details/'+professor.id}}">{{professor.name}}</a></td>
       <td>{{professor.subject}}</td>
       <td>{{professor.email}}</td>
       <td>{{professor.telephone}}</td>

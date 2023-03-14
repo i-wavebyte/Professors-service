@@ -53,4 +53,9 @@ public class professorWebController {
     public Professor assignStudent(@PathVariable Long id,@RequestBody List<Long> ids){
         return professorService.assignStudents(id,ids);
     }
+
+    @PostMapping("/addAll")
+    public List<Professor> addAll(@RequestBody List<Professor> professors){
+        return professorService.addAll(professors);
+    }
 }

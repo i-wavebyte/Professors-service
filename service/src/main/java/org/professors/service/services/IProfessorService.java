@@ -13,4 +13,5 @@ public interface IProfessorService {
     List<Professor> getFromIdList(List<Long> ids);
     Professor assignStudents(Long id, List<Long> ids);
     Professor assignStudent(Long id, Long student);
+    List<Professor> addAll(List<Professor> professors);
 }

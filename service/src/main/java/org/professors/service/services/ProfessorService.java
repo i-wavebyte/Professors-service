@@ -82,5 +82,10 @@ public class ProfessorService implements IProfessorService{
         return professorRepository.save(p);
     }
 
+    @Override
+    public List<Professor> addAll(List<Professor> professors) {
+        return professorRepository.saveAll(professors);
+    }
+
 
 }
