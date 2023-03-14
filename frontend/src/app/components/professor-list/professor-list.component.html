@@ -1,0 +1,30 @@
+<div>
+  <div (change)="handleFilterChange(search.value,subject.value)" (keyup)="handleFilterChange(search.value,subject.value)">
+    <input type="search" placeholder="enter here to search" #search >
+  <select #subject>
+    <option value="">All</option>
+    <option *ngFor="let subject of subjects" value={{subject}}>
+      {{subject}}
+    </option>
+  </select>
+  </div>
+
+  <table>
+    <tr>
+      <th>CIN</th>
+      <th>name</th>
+      <th>subject</th>
+      <th>email</th>
+      <th>phone</th>
+      <th>studentsCount</th>
+    </tr>
+    <tr *ngFor="let professor of filtered">
+      <td>{{professor.cin}}</td>
+      <td>{{professor.name}}</td>
+      <td>{{professor.subject}}</td>
+      <td>{{professor.email}}</td>
+      <td>{{professor.telephone}}</td>
+      <td>{{professor.etudiants.length}}</td>
+    </tr>
+  </table>
+</div>

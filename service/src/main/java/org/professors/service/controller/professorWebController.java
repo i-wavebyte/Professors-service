@@ -25,7 +25,7 @@ public class professorWebController {
     }
 
     @GetMapping("/get/list")
-    public List<Professor> getProfessorList(@RequestBody List<Long> ids){
+    public List<Professor> getProfessorList(@RequestParam List<Long> ids){
         return professorService.getFromIdList(ids);
     }
 

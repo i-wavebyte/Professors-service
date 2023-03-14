@@ -55,6 +55,7 @@ public class ProfessorService implements IProfessorService{
 
         for(Long id : ids){
             Professor p = professorRepository.findById(id).orElse(new Professor());
+            if(p.getId()==null) continue;
             Professors.add(p);
         }
 
