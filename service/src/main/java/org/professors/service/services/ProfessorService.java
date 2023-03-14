@@ -8,7 +8,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
+import java.util.HashSet;
 import java.util.List;
+import java.util.Set;
 
 @Transactional @Slf4j @Service
 public class ProfessorService implements IProfessorService{
@@ -63,6 +65,9 @@ public class ProfessorService implements IProfessorService{
     public Professor assignStudents(Long id, List<Long> ids) {
         Professor p = professorRepository.findById(id).orElseThrow(() -> new RuntimeException("Professor not found"));
         p.getEtudiants().addAll(ids);
+        Set<Long> set = new HashSet<>(p.getEtudiants()); // Convert list to Set to remove duplicates
+        p.getEtudiants().clear();
+        p.getEtudiants().addAll(set); // Add the distinct values back to the list
         return professorRepository.save(p);
     }
 
@@ -70,6 +75,9 @@ public class ProfessorService implements IProfessorService{
     public Professor assignStudent(Long id, Long student) {
         Professor p = professorRepository.findById(id).orElseThrow(() -> new RuntimeException("Professor not found"));
         p.getEtudiants().add(student);
+        Set<Long> set = new HashSet<>(p.getEtudiants()); // Convert list to Set to remove duplicates
+        p.getEtudiants().clear();
+        p.getEtudiants().addAll(set); // Add the distinct values back to the list
         return professorRepository.save(p);
     }
 
