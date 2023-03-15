@@ -10,6 +10,11 @@ import { ProfessorListComponent } from './components/professor-list/professor-li
 import { HomeComponent } from './layouts/home/home.component';
 import { ProfessorDetailsComponent } from './layouts/professor-details/professor-details.component';
 import { ProfDetailsComponent } from './components/prof-details/prof-details.component';
+import { StudentsListComponent } from './components/students-list/students-list.component';
+import { StudentsComponent } from './layouts/students/students.component';
+import { StudentDetailsComponent } from './layouts/student-details/student-details.component';
+import { StudDetailsComponent } from './components/stud-details/stud-details.component';
+
 
 @NgModule({
   declarations: [
@@ -18,7 +23,11 @@ import { ProfDetailsComponent } from './components/prof-details/prof-details.com
     ProfessorListComponent,
     HomeComponent,
     ProfessorDetailsComponent,
-    ProfDetailsComponent
+    ProfDetailsComponent,
+    StudentsListComponent,
+    StudentsComponent,
+    StudentDetailsComponent,
+    StudDetailsComponent
   ],
   imports: [
     BrowserModule,

@@ -10,7 +10,8 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-@RequestMapping("/students")
+@RequestMapping("/studentService")
+@CrossOrigin("*")
 public class StudentController {
 
     public static final String ANSI_RESET = "\u001B[0m";
@@ -37,6 +38,10 @@ public class StudentController {
         return new ResponseEntity<>(students, HttpStatus.OK);
     }
 
+    @PostMapping("/addStudents")
+    public List<Student> addStudents(@RequestBody List<Student> students){
+        return studentService.addAll(students);
+    }
     @GetMapping("/find/{id}")
     public ResponseEntity<Student> getStudent(@PathVariable("id") Long id){
         Student student = studentService.findStudent(id);

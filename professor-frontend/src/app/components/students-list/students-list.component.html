@@ -1,12 +1,4 @@
 <div>
-  <a routerLink="/"> << Return to home</a>
-  <p>name: {{professor.name}}</p>
-  <p>subject: {{professor.subject}}</p>
-  <p>email: {{professor.email}}</p>
-  <p>phone: {{professor.telephone}}</p>
-  <p>cin: {{professor.cin}}</p>
-
-
   <div (change)="handleFilterChange(search.value,subject.value)" (keyup)="handleFilterChange(search.value,subject.value)">
     <input type="search" placeholder="enter here to search" #search >
   <select #subject>
@@ -28,7 +20,7 @@
     </tr>
     <tr *ngFor="let professor of filtered">
       <td>{{professor.cin}}</td>
-      <td><a routerLink="{{'/student/'+professor.id}}">{{professor.name}}</a></td>
+      <td><a routerLink="{{'/details/'+professor.id}}">{{professor.name}}</a></td>
       <td>{{professor.groupe}}</td>
       <td>{{professor.email}}</td>
       <td>{{professor.telephone}}</td>

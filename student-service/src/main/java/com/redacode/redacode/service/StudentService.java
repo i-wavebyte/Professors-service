@@ -73,4 +73,8 @@ public class StudentService {
         return studentRepo.save(student);
 
     }
+
+    public List<Student> addAll(List<Student> students){
+        return studentRepo.saveAll(students);
+    }
 }
