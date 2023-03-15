@@ -1,0 +1,31 @@
+<div>
+  <div (change)="handleFilterChange(search.value,groupe.value)" (keyup)="handleFilterChange(search.value,groupe.value)">
+    <input type="search" placeholder="enter here to search" #search >
+  <select #groupe>
+    <option value="">All</option>
+    <option *ngFor="let groupe of groups" value={{groupe}}>
+      {{groupe}}
+    </option>
+  </select>
+  </div>
+
+  <table>
+    <tr>
+      <th>CIN</th>
+      <th>name</th>
+      <th>groupe</th>
+      <th>email</th>
+      <th>phone</th>
+      <th>professorsCount</th>
+    </tr>
+    <tr *ngFor="let student of filtered">
+      <td>{{student.cin}}</td>
+      <td><a routerLink="{{'/student/'+student.id}}">{{student.name}}</a></td>
+      <td>{{student.groupe}}</td>
+      <td>{{student.email}}</td>
+      <td>{{student.telephone}}</td>
+      <td>{{student.professors.length}}</td>
+    </tr>
+  </table>
+</div>
+

@@ -19,6 +19,7 @@ public class Student {
     private String telephone;
     private String cin;
     private String Groupe;
+    @ElementCollection
     private List<Long> professors = new ArrayList<Long>();
 
 }
