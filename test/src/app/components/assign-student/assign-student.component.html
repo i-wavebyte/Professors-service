@@ -1,0 +1,28 @@
+<div>
+    <form #studentForm="ngForm" (ngSubmit)="onSubmit(studentForm)">
+      <!-- <input type="text" name="name" [(ngModel)]="student.name"/>
+      <label for="name"> Full name</label>
+      <br /><br />
+      <input type="text" name="cin" [(ngModel)]="student.cin"/>
+      <label for="cin"> CIN</label>
+      <br /><br />
+      <input type="text" name="email"  [(ngModel)]="student.email"/>
+      <label for="email"> E-mail</label>
+      <br /><br />
+      <input type="text" name="telephone"  [(ngModel)]="student.telephone"/>
+      <label for="telephone"> Phone</label>
+      <br /><br />
+      <input type="text" name="groupe"  [(ngModel)]="student.groupe"/>
+      <label for="groupe"> Groupe</label>
+      <br /><br />
+      <input type="submit" value="add">
+      <br /><br /> -->
+      <select [(ngModel)]="professorId" name="professorId">
+        <option *ngFor="let professor of professors" value={{professor.id}}>
+            {{professor.name}}
+        </option>
+      </select>
+      <label for="name">Assingn professor</label> <input type="submit" value="assign">
+      <br /><br />
+    </form>
+  </div>

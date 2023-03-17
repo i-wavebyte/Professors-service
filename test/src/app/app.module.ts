@@ -14,6 +14,9 @@ import { StudentDetailsComponent } from './layouts/student-details/student-detai
 import { StudentFormComponent } from './components/student-form/student-form.component';
 import { StudentListComponent } from './components/student-list/student-list.component';
 import { ProfessorsListComponent } from './components/professors-list/professors-list.component';
+import { StudDetailsComponent } from './components/stud-details/stud-details.component';
+import { AssignStudentComponent } from './components/assign-student/assign-student.component';
+import { ProfDetailsComponent } from './components/prof-details/prof-details.component';
 
 
 
@@ -28,7 +31,10 @@ import { ProfessorsListComponent } from './components/professors-list/professors
     StudentDetailsComponent,
     StudentFormComponent,
     StudentListComponent,
-    ProfessorsListComponent
+    ProfessorsListComponent,
+    StudDetailsComponent,
+    AssignStudentComponent,
+    ProfDetailsComponent
   ],
   imports: [
     BrowserModule,

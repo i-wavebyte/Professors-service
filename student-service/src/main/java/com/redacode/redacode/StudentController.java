@@ -72,7 +72,7 @@ public class StudentController {
     public ResponseEntity<?> assignProf(@PathVariable("studentId") long studentId,@RequestParam Long profId)
     {
         Student newStudent = studentService.assignProfessor(studentId, profId);
-        System.out.println("wa saaaahbi");
+        System.out.println(profId);
         System.out.println(ANSI_GREEN+ newStudent.getProfessors() + ANSI_RESET);
         return new ResponseEntity<>(newStudent, HttpStatus.OK);
     }

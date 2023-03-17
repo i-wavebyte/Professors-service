@@ -44,7 +44,8 @@ public class professorWebController {
     }
 
     @PutMapping("/assign/{id}")
-    public Professor assignStudent(@PathVariable Long id,@RequestBody Long studentId){
+    public Professor assignStudent(@PathVariable Long id,@RequestParam Long studentId){
+
         return professorService.assignStudent(id,studentId);
     }
 

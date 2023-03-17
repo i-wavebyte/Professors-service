@@ -29,7 +29,8 @@ export class StudentService {
   }
 
   assignProfessor(id: number, studentId: number): Observable<Student> {
-    return this.http.put<Student>(`${this.endpoint}/assign/${id}`, studentId);
+    let params = new HttpParams().set('profId', studentId);
+    return this.http.put<Student>(`${this.endpoint}/assign/${id}`,{}, {params:params});
   }
 
   add(student:Student):Observable<Student>{
