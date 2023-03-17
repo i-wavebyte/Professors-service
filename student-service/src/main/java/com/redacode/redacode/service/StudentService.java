@@ -69,6 +69,9 @@ public class StudentService {
         List<Long> s = student.getProfessors();
         s.add(profId);
         student.setProfessors(s);
+        Set<Long> set = new HashSet<>(student.getProfessors()); // Convert list to Set to remove duplicates
+        student.getProfessors().clear();
+        student.getProfessors().addAll(set); // Add the distinct values back to the list
         System.out.println(ANSI_BLUE+ student.getProfessors() + ANSI_RESET);
         return studentRepo.save(student);
 

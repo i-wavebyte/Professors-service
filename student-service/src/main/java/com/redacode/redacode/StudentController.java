@@ -69,7 +69,7 @@ public class StudentController {
     }
 
     @PutMapping("/assign/{studentId}")
-    public ResponseEntity<?> assignProf(@PathVariable("studentId") long studentId,@RequestParam Long profId)
+    public ResponseEntity<?> assignProf(@PathVariable("studentId") long studentId,@RequestBody Long profId)
     {
         Student newStudent = studentService.assignProfessor(studentId, profId);
         System.out.println(profId);
