@@ -1,0 +1,22 @@
+2023-03-20 16:35:37,106 DEBUG - Starting WinSW in console mode
+2023-03-20 16:35:40,983 DEBUG - Starting WinSW in console mode
+2023-03-20 16:35:41,018 FATAL - Unhandled exception
+System.Exception: Unknown command: C:\Users\stagiaire7\Documents\GitHub\Professors-service\sonar\bin\windows-x86-64\lib
+   à WinSW.Program.Run(String[] argsArray, IServiceConfig config)
+   à WinSW.Program.Main(String[] args)
+2023-03-20 16:36:58,340 DEBUG - Starting WinSW in console mode
+2023-03-20 16:36:59,619 DEBUG - Starting WinSW in console mode
+2023-03-20 16:37:22,761 DEBUG - Starting WinSW in console mode
+2023-03-20 16:37:25,276 DEBUG - Starting WinSW in console mode
+2023-03-20 16:44:51,421 DEBUG - Starting WinSW in console mode
+2023-03-20 16:45:08,578 DEBUG - Starting WinSW in console mode
+2023-03-20 16:45:16,221 DEBUG - Starting WinSW in console mode
+2023-03-20 16:46:47,192 DEBUG - Starting WinSW in console mode
+2023-03-21 09:08:30,800 DEBUG - Starting WinSW in console mode
+2023-03-21 09:09:57,051 DEBUG - Starting WinSW in console mode
+2023-03-21 09:12:10,295 DEBUG - Starting WinSW in console mode
+2023-03-21 09:17:36,020 DEBUG - Starting WinSW in console mode
+2023-03-21 09:17:58,580 DEBUG - Starting WinSW in console mode
+2023-03-21 09:22:10,487 DEBUG - Starting WinSW in console mode
+2023-03-21 09:24:29,454 DEBUG - Starting WinSW in console mode
+2023-03-21 09:30:02,701 DEBUG - Starting WinSW in service mode

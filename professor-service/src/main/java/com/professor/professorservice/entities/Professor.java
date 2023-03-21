@@ -18,9 +18,9 @@ public class Professor {
     @GeneratedValue (strategy = GenerationType.AUTO)
     private Long id;
     private String name;
-    private String CIN;
+    private String cin;
     private String subject;
     private String email;
     private String telephone;
-    private List<Long> etudiants = new ArrayList<Long>();
+    private List<Long> etudiants = new ArrayList<>();
 }
