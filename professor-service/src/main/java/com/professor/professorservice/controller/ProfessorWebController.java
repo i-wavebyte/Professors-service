@@ -2,24 +2,24 @@ package com.professor.professorservice.controller;
 
 import com.professor.professorservice.entities.Professor;
 import com.professor.professorservice.services.IProfessorService;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
 
 // Define a REST controller for Professor service
 @RestController
-
 // Map the base URL for the service
 @RequestMapping("/professorService")
-
 // Allow cross-origin requests from any domain
-@CrossOrigin("*")
+@CrossOrigin("http://localhost:4200")
 public class ProfessorWebController {
 
     // Inject the Professor service using Spring's dependency injection
-    @Autowired
-    IProfessorService professorService;
+
+    private IProfessorService professorService;
+    public ProfessorWebController(IProfessorService professorService){
+        this.professorService = professorService;
+    }
 
     // Handle GET requests for a specific Professor by ID
     @GetMapping("/get/{id}")

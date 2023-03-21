@@ -1,0 +1,11 @@
+
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(üşÌ¨øÿÿÿÿ
+N	java:S106="9Replace this use of System.out or System.err by a logger.(€Ûı
+A
+java:S1452H"&Remove usage of generic wildcard type.(Ö’üÿÿÿÿ
+N	java:S106K"9Replace this use of System.out or System.err by a logger.(ş˜öå
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ÜËâÕùÿÿÿÿ
+<
+java:S1452R"&Remove usage of generic wildcard type.(ÙÏø¢
+J
+java:S1068"/Remove this unused "studentRepo" private field.(ç›—ìıÿÿÿÿ
