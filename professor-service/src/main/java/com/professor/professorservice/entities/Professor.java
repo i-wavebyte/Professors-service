@@ -22,5 +22,6 @@ public class Professor {
     private String subject;
     private String email;
     private String telephone;
+    // this contains Ids of students assigned to the professor instanced from this entity, to be tested
     private List<Long> etudiants = new ArrayList<>();
 }

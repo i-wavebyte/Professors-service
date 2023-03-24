@@ -33,10 +33,10 @@ public class ProfessorService implements IProfessorService {
         // Find the Professor by ID or throw an exception if not found
         Professor p = professorRepository.findById(prodId).orElseThrow(() -> new RuntimeException(Literals.PROFESSOR_NOT_FOUND));
         // Update the Professor fields if not null
-        if(professor.getName() != null) p.setName(professor.getName());
-        if(professor.getSubject() != null) p.setSubject(professor.getSubject());
-        if(professor.getEmail() != null) p.setEmail(professor.getEmail());
-        if(professor.getTelephone() != null) p.setTelephone(professor.getTelephone());
+        p.setName(professor.getName());
+        p.setSubject(professor.getSubject());
+        p.setEmail(professor.getEmail());
+        p.setTelephone(professor.getTelephone());
         // Save the updated Professor and return it
         return professorRepository.save(p);
     }
