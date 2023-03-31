@@ -27,7 +27,7 @@ import java.util.Optional;
 @ContextConfiguration(classes = {ProfessorService.class})
 @RunWith(MockitoJUnitRunner.class)
 class ProfessorServiceTest {
-
+    //codegpt do: comment this code following best practices
     @MockBean
     private ProfessorRepository professorRepository;
 

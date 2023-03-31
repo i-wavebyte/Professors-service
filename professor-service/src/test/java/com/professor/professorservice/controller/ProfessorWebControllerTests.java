@@ -27,7 +27,6 @@ import static org.mockito.Mockito.when;
 class ProfessorWebControllerTests {
 
 
-
     @MockBean
     private IProfessorService professorService;
 

@@ -36,6 +36,8 @@ public class SecurityConfig {
                 .hasAnyAuthority("PROF_MANAGER")
                 .requestMatchers(HttpMethod.GET, "/professorService/**") // Restrict POST requests
                 .hasAnyAuthority("PROF_MANAGER","STUD_MANAGER")
+                .requestMatchers(HttpMethod.GET, "/students/**") // Restrict POST requests
+                .hasAnyAuthority("PROF_MANAGER","STUD_MANAGER")
                 .requestMatchers(HttpMethod.PUT, "/professorService/**") // Restrict POST requests
                 .hasAnyAuthority("PROF_MANAGER")
                 .requestMatchers(HttpMethod.DELETE, "/professorService/**") // Restrict POST requests
