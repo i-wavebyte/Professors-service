@@ -1,4 +1,9 @@
-2023.03.24 08:24:09 WARN  es[][o.e.t.ThreadPool] timer thread slept for [14.1h/50919508ms] on absolute clock which is above the warn threshold of [5000ms]
-2023.03.24 08:24:10 WARN  es[][o.e.t.ThreadPool] timer thread slept for [14.1h/50946791445700ns] on relative clock which is above the warn threshold of [5000ms]
-2023.03.24 10:12:33 WARN  es[][o.e.m.j.JvmGcMonitorService] [gc][young][52147][30] duration [1s], collections [1]/[1.9s], total [1s]/[2.8s], memory [397.7mb]->[95mb]/[512mb], all_pools {[young] [303mb]->[0b]/[0b]}{[old] [93.5mb]->[93.5mb]/[512mb]}{[survivor] [1.2mb]->[1.4mb]/[0b]}
-2023.03.24 10:12:34 WARN  es[][o.e.m.j.JvmGcMonitorService] [gc][52147] overhead, spent [1s] collecting in the last [1.9s]
+2023.03.31 08:40:02 WARN  es[][o.e.t.ThreadPool] timer thread slept for [6.6d/571195248ms] on absolute clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:34 WARN  es[][o.e.t.ThreadPool] timer thread slept for [6.6d/571195248249100ns] on relative clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:34 WARN  es[][o.e.t.ThreadPool] timer thread slept for [31.7s/31761ms] on absolute clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:34 WARN  es[][o.e.t.ThreadPool] timer thread slept for [31.7s/31761592000ns] on relative clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:52 WARN  es[][o.e.t.ThreadPool] timer thread slept for [8.6s/8692ms] on absolute clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:52 WARN  es[][o.e.t.ThreadPool] timer thread slept for [8.6s/8692381800ns] on relative clock which is above the warn threshold of [5000ms]
+2023.03.31 08:40:53 WARN  es[][o.e.t.ThreadPool] execution of [ReschedulingRunnable{runnable=org.elasticsearch.monitor.jvm.JvmGcMonitorService$1@1c55deb4, interval=1s}] took [8692ms] which is above the warn threshold of [5000ms]
+2023.03.31 08:41:06 WARN  es[][o.e.m.j.JvmGcMonitorService] [gc][young][69227][43] duration [1.4s], collections [1]/[1.9s], total [1.4s]/[9.2s], memory [116.4mb]->[116.4mb]/[512mb], all_pools {[young] [21mb]->[0b]/[0b]}{[old] [93.7mb]->[93.8mb]/[512mb]}{[survivor] [1.6mb]->[1.5mb]/[0b]}
+2023.03.31 08:41:06 WARN  es[][o.e.m.j.JvmGcMonitorService] [gc][69227] overhead, spent [1.4s] collecting in the last [1.9s]

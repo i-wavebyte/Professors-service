@@ -1,111 +1,351 @@
-2023.03.24 08:24:24 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:24:36 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:24:37 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h9m36s582ms635µs400ns).
-2023.03.24 08:24:46 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:24:56 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:25:06 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:25:21 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:25:31 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:25:41 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:25:51 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:01 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:11 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:21 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:31 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:26:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:27:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:28:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:29:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:30:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:31:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:22 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:32 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:42 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:32:52 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:02 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:12 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:33:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:34:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:35:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:36:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:37:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:38:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:39:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:40:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:33 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:43 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:41:53 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:42:03 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:42:13 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:42:23 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:42:34 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
-2023.03.24 08:42:44 ERROR web[][o.s.s.m.ElasticSearchMetricTask] Failed to query ES status, no nodes stats returned by elasticsearch API
+2023.03.31 08:40:14 WARN  web[][c.z.h.p.HikariPool] HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=6d14h40m51s874ms614µs100ns).
+2023.03.31 08:40:13 ERROR web[AYcDg2hgJbHuq6rjABmG][o.s.s.w.WebServiceEngine] Fail to process request http://localhost:9000/api/hotspots/search.protobuf?projectKey=professor-service&files=src%2Fmain%2Fjava%2Fcom%2Fprofessor%2Fprofessorservice%2Fconfig%2FSecurityConfig.java&branch=main&ps=500&p=1
+org.sonar.server.es.ElasticsearchException: Fail to execute es requestES search request 'SearchRequest{searchType=QUERY_THEN_FETCH, indices=[issues], indicesOptions=IndicesOptions[ignore_unavailable=false, allow_no_indices=true, expand_wildcards_open=true, expand_wildcards_closed=false, expand_wildcards_hidden=false, allow_aliases_to_multiple_indices=true, forbid_closed_indices=true, ignore_aliases=false, ignore_throttled=true], types=[auth], routing='auth_AYcDio0LeXJpVsPEi33i', preference='null', requestCache=null, scroll=null, maxConcurrentShardRequests=0, batchedReduceSize=512, preFilterShardSize=null, allowPartialSearchResults=null, localClusterAlias=null, getOrCreateAbsoluteStartMillis=-1, ccsMinimizeRoundtrips=true, enableFieldsEmulation=false, source={"from":0,"size":500,"query":{"bool":{"must":[{"match_all":{"boost":1.0}}],"filter":[{"bool":{"must":[{"term":{"indexType":{"value":"issue","boost":1.0}}},{"has_parent":{"query":{"bool":{"filter":[{"bool":{"should":[{"term":{"auth_allowAnyone":{"value":true,"boost":1.0}}},{"term":{"auth_userIds":{"value":"AYcDfHDKeXJpVsPEit99","boost":1.0}}},{"term":{"auth_groupIds":{"value":"AYcDfHDSeXJpVsPEit9-","boost":1.0}}},{"term":{"auth_groupIds":{"value":"AYcDfHDUeXJpVsPEit9_","boost":1.0}}}],"adjust_pure_negative":true,"boost":1.0}}],"adjust_pure_negative":true,"boost":1.0}},"parent_type":"auth","score":false,"ignore_unmapped":false,"boost":1.0}},{"terms":{"type":["SECURITY_HOTSPOT"],"boost":1.0}},{"terms":{"status":["TO_REVIEW","REVIEWED"],"boost":1.0}},{"terms":{"project":["AYcDio0LeXJpVsPEi33i"],"boost":1.0}},{"terms":{"filePath":["src/main/java/com/professor/professorservice/config/SecurityConfig.java"],"boost":1.0}},{"term":{"isMainBranch":{"value":"true","boost":1.0}}},{"bool":{"adjust_pure_negative":true,"boost":1.0}}],"adjust_pure_negative":true,"boost":1.0}}],"adjust_pure_negative":true,"boost":1.0}},"_source":false,"sort":[{"vulnerabilityProbability":{"order":"desc","missing":"_first"}},{"sonarsourceSecurity":{"order":"asc","missing":"_first"}},{"ruleUuid":{"order":"asc","missing":"_first"}},{"project":{"order":"asc","missing":"_first"}},{"filePath":{"order":"asc","missing":"_first"}},{"line":{"order":"asc","missing":"_first"}},{"key":{"order":"asc","missing":"_first"}}],"track_total_hits":2147483647,"aggregations":{"effort":{"filter":{"bool":{"adjust_pure_negative":true,"boost":1.0}},"aggregations":{"effort":{"sum":{"field":"effort"}}}}}}}' on indices '[issues]' on types '[auth]'
+	at org.sonar.server.es.EsClient.execute(EsClient.java:313)
+	at org.sonar.server.es.EsClient.search(EsClient.java:134)
+	at org.sonar.server.issue.index.IssueIndex.search(IssueIndex.java:387)
+	at org.sonar.server.hotspot.ws.SearchAction.doIndexSearch(SearchAction.java:412)
+	at org.sonar.server.hotspot.ws.SearchAction.searchHotspots(SearchAction.java:341)
+	at org.sonar.server.hotspot.ws.SearchAction.handle(SearchAction.java:179)
+	at org.sonar.server.ws.WebServiceEngine.execute(WebServiceEngine.java:111)
+	at org.sonar.server.platform.web.WebServiceFilter.doFilter(WebServiceFilter.java:84)
+	at org.sonar.server.platform.web.MasterServletFilter$GodFilterChain.doFilter(MasterServletFilter.java:153)
+	at org.sonar.server.platform.web.SonarLintConnectionFilter.doFilter(SonarLintConnectionFilter.java:66)
+	at org.sonar.server.platform.web.MasterServletFilter$GodFilterChain.doFilter(MasterServletFilter.java:153)
+	at org.sonar.server.platform.web.MasterServletFilter.doFilter(MasterServletFilter.java:116)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.UserSessionFilter.doFilter(UserSessionFilter.java:81)
+	at org.sonar.server.platform.web.UserSessionFilter.doFilter(UserSessionFilter.java:68)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.CspFilter.doFilter(CspFilter.java:63)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.CacheControlFilter.doFilter(CacheControlFilter.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.SecurityServletFilter.doHttpFilter(SecurityServletFilter.java:60)
+	at org.sonar.server.platform.web.SecurityServletFilter.doFilter(SecurityServletFilter.java:47)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RedirectFilter.doFilter(RedirectFilter.java:57)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RequestIdFilter.doFilter(RequestIdFilter.java:66)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RootFilter.doFilter(RootFilter.java:64)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at ch.qos.logback.access.tomcat.LogbackValve.invoke(LogbackValve.java:256)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.sonar.server.app.SecureErrorReportValve.invoke(SecureErrorReportValve.java:37)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.SocketTimeoutException: 60 000 milliseconds timeout on connection http-outgoing-4 [ACTIVE]
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:917)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:300)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:288)
+	at org.elasticsearch.client.RestHighLevelClient.performClientRequest(RestHighLevelClient.java:2699)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:2171)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:2137)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:2105)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1367)
+	at org.sonar.server.es.EsClient.lambda$search$1(EsClient.java:134)
+	at org.sonar.server.es.EsClient.execute(EsClient.java:311)
+	... 148 common frames omitted
+Caused by: java.net.SocketTimeoutException: 60 000 milliseconds timeout on connection http-outgoing-4 [ACTIVE]
+	at org.apache.http.nio.protocol.HttpAsyncRequestExecutor.timeout(HttpAsyncRequestExecutor.java:387)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onTimeout(InternalIODispatch.java:92)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onTimeout(InternalIODispatch.java:39)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.timeout(AbstractIODispatch.java:175)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.sessionTimedOut(BaseIOReactor.java:261)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.timeoutCheck(AbstractIOReactor.java:502)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.validate(BaseIOReactor.java:211)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:280)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:591)
+	... 1 common frames omitted
+2023.03.31 08:40:13 ERROR web[AYcDg2hgJbHuq6rjABmi][o.s.s.w.WebServiceEngine] Fail to process request http://localhost:9000/api/developers/search_events?projects=professor-service&from=2023-03-23T18%3A00%3A06%2B0000
+org.sonar.server.es.ElasticsearchException: Fail to execute es requestES search request 'SearchRequest{searchType=QUERY_THEN_FETCH, indices=[issues], indicesOptions=IndicesOptions[ignore_unavailable=false, allow_no_indices=true, expand_wildcards_open=true, expand_wildcards_closed=false, expand_wildcards_hidden=false, allow_aliases_to_multiple_indices=true, forbid_closed_indices=true, ignore_aliases=false, ignore_throttled=true], types=[auth], routing='null', preference='null', requestCache=null, scroll=null, maxConcurrentShardRequests=0, batchedReduceSize=512, preFilterShardSize=null, allowPartialSearchResults=null, localClusterAlias=null, getOrCreateAbsoluteStartMillis=-1, ccsMinimizeRoundtrips=true, enableFieldsEmulation=false, source={"size":0,"query":{"bool":{"filter":[{"term":{"assignee":{"value":"AYcDfHDKeXJpVsPEit99","boost":1.0}}}],"must_not":[{"exists":{"field":"resolution","boost":1.0}},{"term":{"type":{"value":"SECURITY_HOTSPOT","boost":1.0}}}],"adjust_pure_negative":true,"boost":1.0}},"aggregations":{"AYcDio0LeXJpVsPEi33i":{"filter":{"bool":{"filter":[{"term":{"project":{"value":"AYcDio0LeXJpVsPEi33i","boost":1.0}}},{"range":{"issueCreatedAt":{"from":1679594407,"to":null,"include_lower":true,"include_upper":true,"boost":1.0}}}],"adjust_pure_negative":true,"boost":1.0}},"aggregations":{"branchUuid":{"terms":{"field":"branch","size":10,"min_doc_count":1,"shard_min_doc_count":0,"show_term_doc_count_error":false,"order":[{"_count":"desc"},{"_key":"asc"}]},"aggregations":{"count":{"value_count":{"field":"key"}},"maxFuncCreatedAt":{"max":{"field":"issueCreatedAt"}}}}}}}}}' on indices '[issues]' on types '[auth]'
+	at org.sonar.server.es.EsClient.execute(EsClient.java:313)
+	at org.sonar.server.es.EsClient.search(EsClient.java:134)
+	at org.sonar.server.issue.index.IssueIndex.searchProjectStatistics(IssueIndex.java:1089)
+	at org.sonar.server.developers.ws.SearchEventsAction.computeNewIssuesEvents(SearchEventsAction.java:188)
+	at org.sonar.server.developers.ws.SearchEventsAction.computeEvents(SearchEventsAction.java:149)
+	at org.sonar.server.developers.ws.SearchEventsAction.handle(SearchEventsAction.java:116)
+	at org.sonar.server.ws.WebServiceEngine.execute(WebServiceEngine.java:111)
+	at org.sonar.server.platform.web.WebServiceFilter.doFilter(WebServiceFilter.java:84)
+	at org.sonar.server.platform.web.MasterServletFilter$GodFilterChain.doFilter(MasterServletFilter.java:153)
+	at org.sonar.server.platform.web.SonarLintConnectionFilter.doFilter(SonarLintConnectionFilter.java:66)
+	at org.sonar.server.platform.web.MasterServletFilter$GodFilterChain.doFilter(MasterServletFilter.java:153)
+	at org.sonar.server.platform.web.MasterServletFilter.doFilter(MasterServletFilter.java:116)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.UserSessionFilter.doFilter(UserSessionFilter.java:81)
+	at org.sonar.server.platform.web.UserSessionFilter.doFilter(UserSessionFilter.java:68)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.CspFilter.doFilter(CspFilter.java:63)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.CacheControlFilter.doFilter(CacheControlFilter.java:76)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.SecurityServletFilter.doHttpFilter(SecurityServletFilter.java:60)
+	at org.sonar.server.platform.web.SecurityServletFilter.doFilter(SecurityServletFilter.java:47)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RedirectFilter.doFilter(RedirectFilter.java:57)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RequestIdFilter.doFilter(RequestIdFilter.java:66)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.sonar.server.platform.web.RootFilter.doFilter(RootFilter.java:64)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.apache.catalina.filters.SetCharacterEncodingFilter.doFilter(SetCharacterEncodingFilter.java:109)
+	at jdk.internal.reflect.GeneratedMethodAccessor184.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.apache.catalina.security.SecurityUtil.lambda$execute$0(SecurityUtil.java:280)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:712)
+	at java.base/javax.security.auth.Subject.doAsPrivileged(Subject.java:584)
+	at org.apache.catalina.security.SecurityUtil.execute(SecurityUtil.java:311)
+	at org.apache.catalina.security.SecurityUtil.doAsPrivilege(SecurityUtil.java:253)
+	at org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:187)
+	at org.apache.catalina.core.ApplicationFilterChain.lambda$doFilter$0(ApplicationFilterChain.java:145)
+	at java.base/java.security.AccessController.doPrivileged(AccessController.java:569)
+	at org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:143)
+	at org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:177)
+	at org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:97)
+	at org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:541)
+	at org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:135)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at ch.qos.logback.access.tomcat.LogbackValve.invoke(LogbackValve.java:256)
+	at org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:92)
+	at org.sonar.server.app.SecureErrorReportValve.invoke(SecureErrorReportValve.java:37)
+	at org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:78)
+	at org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:360)
+	at org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:399)
+	at org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:65)
+	at org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:891)
+	at org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1784)
+	at org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:49)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)
+	at org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)
+	at org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:61)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.net.SocketTimeoutException: 60 000 milliseconds timeout on connection http-outgoing-2 [ACTIVE]
+	at org.elasticsearch.client.RestClient.extractAndWrapCause(RestClient.java:917)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:300)
+	at org.elasticsearch.client.RestClient.performRequest(RestClient.java:288)
+	at org.elasticsearch.client.RestHighLevelClient.performClientRequest(RestHighLevelClient.java:2699)
+	at org.elasticsearch.client.RestHighLevelClient.internalPerformRequest(RestHighLevelClient.java:2171)
+	at org.elasticsearch.client.RestHighLevelClient.performRequest(RestHighLevelClient.java:2137)
+	at org.elasticsearch.client.RestHighLevelClient.performRequestAndParseEntity(RestHighLevelClient.java:2105)
+	at org.elasticsearch.client.RestHighLevelClient.search(RestHighLevelClient.java:1367)
+	at org.sonar.server.es.EsClient.lambda$search$1(EsClient.java:134)
+	at org.sonar.server.es.EsClient.execute(EsClient.java:311)
+	... 148 common frames omitted
+Caused by: java.net.SocketTimeoutException: 60 000 milliseconds timeout on connection http-outgoing-2 [ACTIVE]
+	at org.apache.http.nio.protocol.HttpAsyncRequestExecutor.timeout(HttpAsyncRequestExecutor.java:387)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onTimeout(InternalIODispatch.java:92)
+	at org.apache.http.impl.nio.client.InternalIODispatch.onTimeout(InternalIODispatch.java:39)
+	at org.apache.http.impl.nio.reactor.AbstractIODispatch.timeout(AbstractIODispatch.java:175)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.sessionTimedOut(BaseIOReactor.java:261)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.timeoutCheck(AbstractIOReactor.java:502)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.validate(BaseIOReactor.java:211)
+	at org.apache.http.impl.nio.reactor.AbstractIOReactor.execute(AbstractIOReactor.java:280)
+	at org.apache.http.impl.nio.reactor.BaseIOReactor.execute(BaseIOReactor.java:104)
+	at org.apache.http.impl.nio.reactor.AbstractMultiworkerIOReactor$Worker.run(AbstractMultiworkerIOReactor.java:591)
+	... 1 common frames omitted

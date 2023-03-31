@@ -22,8 +22,8 @@ public class ProfessorWebController {
     }
 
     // Handle GET requests for a specific Professor by ID
-    @GetMapping("/get/{id}")
-    public Professor getProfessor(@PathVariable Long profId){
+    @GetMapping("/get/{profId}")
+    public Professor getProfessor(@PathVariable long profId){
         return professorService.getProfessorById(profId);
     }
 
@@ -46,21 +46,21 @@ public class ProfessorWebController {
     }
 
     // Handle PUT requests to update an existing Professor by ID
-    @PutMapping("/update/{id}")
+    @PutMapping("/update/{profId}")
     public Professor updateProfessor(@PathVariable Long profId,@RequestBody Professor professor){
         return professorService.updateProfessor(profId,professor);
     }
 
     // Handle DELETE requests to delete an existing Professor by ID
-    @DeleteMapping("/delete/{id}")
-    public void deleteProfessor(@PathVariable Long id){
-        professorService.deleteProfessor(id);
+    @DeleteMapping("/delete/{profId}")
+    public void deleteProfessor(@PathVariable Long profId){
+        professorService.deleteProfessor(profId);
     }
 
     // Handle PUT requests to assign a Student to a Professor by ID
-    @PutMapping("/assign/{id}")
-    public Professor assignStudent(@PathVariable Long id,@RequestParam Long studentId){
-        return professorService.assignStudent(id,studentId);
+    @PutMapping("/assign/{profId}")
+    public Professor assignStudent(@PathVariable Long profId,@RequestParam Long studentId){
+        return professorService.assignStudent(profId,studentId);
     }
 
     // Handle PUT requests to assign multiple Students to a Professor by ID

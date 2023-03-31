@@ -28,4 +28,11 @@ public class AuthController {
     public ResponseEntity<AuthenticationResponseWrapper> authenticate(@RequestBody AuthenticationRequestWrapper user){
         return ResponseEntity.ok(authenticationService.authenticate(user));
     }
+
+    @PostMapping("/validate")
+    public boolean validate(@RequestBody AuthenticationResponseWrapper token){
+        return authenticationService.ValidateToken(token.getToken());
+    }
+
+    //add a logout(@RequestBody AuthenticationResponseWrapper token) method that invalidates an incoming token
 }

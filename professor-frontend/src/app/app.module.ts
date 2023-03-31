@@ -14,6 +14,7 @@ import { StudentsListComponent } from './components/students-list/students-list.
 import { StudentsComponent } from './layouts/students/students.component';
 import { StudentDetailsComponent } from './layouts/student-details/student-details.component';
 import { StudDetailsComponent } from './components/stud-details/stud-details.component';
+import { LoginComponent } from './layouts/login/login.component';
 
 
 @NgModule({
@@ -27,7 +28,8 @@ import { StudDetailsComponent } from './components/stud-details/stud-details.com
     StudentsListComponent,
     StudentsComponent,
     StudentDetailsComponent,
-    StudDetailsComponent
+    StudDetailsComponent,
+    LoginComponent
   ],
   imports: [
     BrowserModule,
